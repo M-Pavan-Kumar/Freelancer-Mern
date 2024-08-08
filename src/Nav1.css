@@ -1,0 +1,66 @@
+.navbar {
+    background-color:aqua;
+    padding: 10px 20px;
+    color: white;
+    text-align: center;
+}
+
+.navbar-button {
+    background-color:powderblue;
+    color:black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.navbar-button:hover {
+    background-color:aliceblue;
+}
+.skill{
+    
+    margin-left: 4px;
+}
+
+.review-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom:20px;
+  }
+.review-card-header{
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        max-width: 400px;
+        width: 100%;
+      
+    
+}
+.input{
+    margin-left: 4px;
+    width: 50%;
+    height: 20px;
+    font-weight: 16px;
+    margin-top: 15px;
+}
+.rev-button{
+    background-color:rgb(22, 214, 239);
+    margin-left: 4px ;
+    border: none;
+    border-radius: 2px;
+    width: 100px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    height: 20px;
+    cursor: pointer;
+    font-weight: 16px;
+    font-weight: bold;
+
+}
